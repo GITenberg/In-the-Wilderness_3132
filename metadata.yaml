@@ -1,0 +1,35 @@
+_repo: In-the-Wilderness_3132
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warner, Charles Dudley
+    birthdate: 1829
+    deathdate: 1900
+    gutenberg_agent_id: '993'
+    url: http://www.gutenberg.org/2009/agents/993
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dudley_Warner
+description: ''
+gutenberg_issued: '2004-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3132'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adirondack Mountains (N.Y.) -- Biography'
+- !lcsh 'Natural history -- New York (State) -- Adirondack Mountains'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+- !lcsh 'Wilderness areas -- New York (State) -- Adirondack Mountains'
+- !lcsh 'Adirondack Mountains (N.Y.) -- Description and travel'
+- !lcsh 'Warner, Charles Dudley, 1829-1900 -- Homes and haunts -- New York (State)
+  -- Adirondack Mountains'
+- !lcsh 'Adirondack Mountains (N.Y.) -- Intellectual life -- 19th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: How I killed a bear -- Lost in the woods -- A fight with a trout
+  -- A-hunting of the deer -- A character study (Old Phelps) -- Camping out -- A wilderness
+  romance -- What some people call pleasure.
+title: In the Wilderness
+url: http://www.gutenberg.org/ebooks/3132
